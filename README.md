@@ -11,4 +11,3 @@ https://hyunjin.space/
 - Documents 
 https://www.notion.so/70ccfaf86dbd4a529ad2163bc7533b64
 
-![GitHub stats]https://github-readme-stats.vercel.app/api?username=powe0101&show_icons=true&theme=tokyonight
