@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about 
 https://hyunjin.space/
 - Documents 
-https://www.notion.so/87614f9baca644b68b19029d0ae9eaf3
+https://github.com/powe0101/TIL
