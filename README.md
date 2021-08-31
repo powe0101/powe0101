@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 ##
 * Documents with Resume [https://til.hyunjin.space/](https://til.hyunjin.space/)
 
-* Email[ hyunjin.direct@gmail.com](email://hyunjin.direct@gmail.com)
+* hyunjin.direct@gmail.com
